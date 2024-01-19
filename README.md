@@ -1,5 +1,9 @@
 # Shopping List
 
+## Screenshot
+
+![ShoppingList_React](shoppinglist/screenshots/shoppinglist_1.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
