@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-![ShoppingList_React](shoppinglist/screenshots/shoppinglist_1.png)
+![ShoppingList_React](shoppinglist/src/assets/shoppinglist_1.png "Screenshot shoppingList_React")
 
 # Getting Started with Create React App
 
